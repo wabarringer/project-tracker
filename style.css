@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+#header {
+    background-color: aquamarine;
+    height: 10vh;
+    font-size: xx-large;
+}
+
+#ins-card {
+    background-color: coral;
+    height: 60vh;
+    font-size: x-large;
+}
+
+#list-card {
+    background-color: burlywood;
+    height: 60vh;
+    font-size: x-large;
+}
